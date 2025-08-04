@@ -4,12 +4,12 @@
 export const siteConfig = {
   // Site Genel Bilgileri
   siteName: "Robokodkids",
-  siteDescription: "Robotik Kodlama Atölyesi",
+  siteDescription: "Fethiye Robotik Kodlama Atölyesi",
   
   // İletişim Bilgileri
   contact: {
-    address: "Atölye adresiniz buraya gelecek",
-    phone: "+90 XXX XXX XX XX",
+    address: "Cumhuriyet, Dispanser Cd. No:27, 48303 Fethiye/Muğla",
+    phone: "+90 505 577 97 18",
     email: "info@robokodkids.com",
     instagram: "https://www.instagram.com/robokodkids/",
     instagramHandle: "@robokodkids"
@@ -21,7 +21,7 @@ export const siteConfig = {
     title: "Geleceğin",
     titleHighlight: "Teknoloji",
     titleEnd: "Liderleri",
-    description: "Çocuklarınız robotik kodlama, 3D tasarım ve elektronik projelerle teknolojinin büyülü dünyasını keşfetsin.",
+    description: "Çocuklarınız Yapay Zeka, Robotik, Kodlama, 3D tasarım ve elektronik projelerle teknolojinin büyülü dünyasını keşfetsin.",
     primaryButton: "Hemen Başla",
     secondaryButton: "Daha Fazla Bilgi",
     stats: [
@@ -37,25 +37,25 @@ export const siteConfig = {
       age: "6-7 Yaş",
       description: "Temel robotik ve kodlama kavramları",
       color: "bg-blue-500",
-      details: "Bu yaş grubunda çocuklar oyun temelli öğrenme ile robotik dünyasına adım atar."
+      details: "Bu yaş grubunda çocuklar Lego Education setleri ile oyun temelli öğrenme ile robotik dünyasına adım atar."
     },
     {
       age: "8-9 Yaş", 
-      description: "Scratch ile görsel programlama",
+      description: "Lego Educaiton ile mühendislik, Scratch ile görsel programlama, 3d tasarım, Basit Elektrikli Devreler",
       color: "bg-green-500",
-      details: "Scratch programlama dili ile çocuklar kendi oyunlarını ve animasyonlarını oluşturur."
+      details: "Lego Education Spike, Mindstorm, Scratch programlama dili ile çocuklar kendi oyunlarını ve animasyonlarını oluşturur."
     },
     {
       age: "10-11 Yaş",
-      description: "Arduino ve elektronik projeler", 
+      description: "Arduino ve ileri düzey elektronik projeler, GDevelop ile oyun programlama", 
       color: "bg-purple-500",
-      details: "Arduino kartları ile elektronik devreler kurarak gerçek projeler geliştirir."
+      details: "Arduino kartları ile elektronik devreler kurarak gerçek projeler geliştirir. GDevelop ile profosyonel oyun tasarımı yaparlar"
     },
     {
       age: "12-14 Yaş",
-      description: "İleri seviye robotik ve Python",
+      description: "İleri seviye robotik ve Python, Blender ile 3d tasarım",
       color: "bg-orange-500", 
-      details: "Python programlama dili ve ileri robotik projelerle profesyonel beceriler kazanır."
+      details: "Python programlama dili ve ileri robotik projelerle profesyonel beceriler kazanır. Profosyonellerin kullandığı blender 3d tasarım uygulamasını öğrenirler"
     }
   ],
 
